@@ -13,7 +13,7 @@ header:
     name: 郭德臣
     job: 前端工程师
   contacts:
-    phone: 15279027059
+    # phone: 15279027059
     mail: gdccwxx@gmail.com
     wechat: we_chat-GD
 

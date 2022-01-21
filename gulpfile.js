@@ -4,7 +4,7 @@ const autoprefixer = require('gulp-autoprefixer')
 const jade = require('gulp-jade')
 const copy = require('gulp-copy')
 const rimrafPromise = require('rimraf-promise')
-// const ghPages = require('gulp-gh-pages')
+const ghPages = require('gulp-gh-pages')
 const fs = require('fs')
 const connect = require('gulp-connect')
 const yaml = require('js-yaml')
@@ -88,6 +88,16 @@ gulp.task('copy', () => {
   gulp.src('./public/**/*.*').pipe(gulp.dest('./docs'))
   gulp.src('./CNAME').pipe(gulp.dest('./docs'))
 })
+
+gulp.task('deploy', () =>
+  gulp.src('./docs/**/*').pipe(
+    ghPages({
+      remoteUrl: 'git@github.com:gdccwxx/gdccwxx-resume.git',
+      branch: 'gdccwxx',
+    })
+  )
+)
+
 
 gulp.task('clean', () => {
   rimrafPromise('./public/')

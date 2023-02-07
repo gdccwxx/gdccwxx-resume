@@ -7,10 +7,10 @@
   resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.11.2.tgz"
   integrity sha1-McJJwTbD+bNdS2D7jlDgGh8MyaU=
 
-"@types/puppeteer@^1.20.8":
-  version "1.20.8"
-  resolved "https://registry.npmmirror.com/@types/puppeteer/download/@types/puppeteer-1.20.8.tgz"
-  integrity sha1-+tv2T3rEl+kkgpe+tu1qAXBcCRg=
+"@types/puppeteer@^1.20.10":
+  version "1.20.10"
+  resolved "https://registry.yarnpkg.com/@types/puppeteer/-/puppeteer-1.20.10.tgz#dfb83a8775e22fbe81eeeeeb9ada69c1e6bad3d6"
+  integrity sha512-3tlzJ9+z8rMvBDzHPv4Q4LCgBwDRvuoMxThkr+BqcbbNjsBkL/enFf6m+MDJke7vJT4i22ojB8yb3UpibiuBWg==
   dependencies:
     "@types/node" "*"
 

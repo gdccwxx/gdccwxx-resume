@@ -28,15 +28,21 @@ education:
 language:
   cert:
     - name: CET-4
-      grade: 444
-      fullmarks: 710
   skills:
-    - 日常30分钟英语练习, 可使用英语沟通
+    - 可使用英语沟通, 开发
 
 experience:
   - title:
       place: 腾讯会议
-      time: 2020.11 - 至今
+      time: 2020.4 - 至今
+    content:
+      position: 前端工程师 - Owner
+      tasks:
+        - 使用 NextJs 重构会议账号体系,高峰期超过`1000w`pv
+        - 使用 NextJs 开发并维护会议详情页,高峰期超过`1亿`pv
+  - title:
+      place: 腾讯会议
+      time: 2020.11 - 2021.4
     content:
       position: 前端工程师
       tasks:
@@ -95,9 +101,9 @@ skills:
           - '`对计算机与编程有极大热情，自学能力较强`'
       - name: 工具使用
         description:
-          - 使用 Git & `GitFlow 并推广至团队`
+          - 使用 Git 并参与过 NodeJs 共建
       - name: 个人评价
         description:
           - 喜欢琢磨和基础建设。如：网络策略、基础代码库、BFF 模版项目搭建等
-          - 做过20余个项目，年均代码量10w+，有规模化落地实践，希望投身基础建设中
+          - 做过30余个项目，年均代码量10w+，有规模化落地实践，希望投身基础建设中
           - 信奉快速迭代、快速失败原则和信奉 DRY 原则

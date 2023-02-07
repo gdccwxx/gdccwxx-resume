@@ -36,10 +36,10 @@ experience:
       place: 腾讯会议
       time: 2020.4 - 至今
     content:
-      position: 前端工程师 - Owner
+      position: 会议核心模块负责人
       tasks:
-        - 使用 NextJs 重构会议账号体系,高峰期超过`1000w`pv
-        - 使用 NextJs 开发并维护会议详情页,高峰期超过`1亿`pv
+        - 使用 NextJs 重构会议账号体系,高峰期超过 1000w PV
+        - 使用 NextJs 开发并维护会议详情页,高峰期超过 1亿 PV
   - title:
       place: 腾讯会议
       time: 2020.11 - 2021.4

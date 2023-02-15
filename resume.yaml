@@ -69,7 +69,6 @@ skills:
         description:
           - 熟练使用 `TypeScript `
           - 深度理解前端工程化，在内部有规模化落地实践
-          - 熟悉 `React/Vue` 框架底层原理
 
   cloud:
     name: Web 后端

@@ -78,7 +78,7 @@ skills:
         description:
           - 熟悉 `NestJS\Egg\Koa` 框架及设计哲学
           - 了解其相关原理和设计思路，并尝试复用于 UDP 框架
-          - 贡献 `NodeJs` 开源代码
+          - 参与 `NodeJs` 开源共建
 
   gears:
     name: 其它
@@ -91,6 +91,6 @@ skills:
           - 使用 Git 并参与过 NodeJs 共建
       - name: 个人评价
         description:
-          - 做过30余个项目，年均代码量10w+，有规模化落地实践，希望投身基础建设中
+          - 做过30余个项目，年均代码量10w+，有规模化落地实践
           - 信奉快速迭代、快速失败原则和信奉 DRY 原则
           - '`靠谱`、`负责`，有较强的项目 `Owner 意识`'

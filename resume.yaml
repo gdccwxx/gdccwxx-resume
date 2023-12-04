@@ -49,7 +49,7 @@ experience:
     content:
       position: 前端工程师
       tasks:
-        - 使用 React\Vue 进行开发 10 余个项目，其中负责的会控自定义布局获取专利
+        - 使用 React\Vue 进行开发 10 余个项目
         - 使用 Typescript 开发 WemeetJSDK，给业务及第三方应用提供高可用 SDK
         - CI\CD 流水线自动化，提升团队效率
         - 重构老代码，提升开发体验 & 提升页面打开速度
@@ -87,9 +87,6 @@ skills:
       - name: '`计算机基础`'
         description:
           - 对计算机与编程有极大热情，自学能力较强
-      - name: 工具使用
-        description:
-          - 使用 Git 并参与过 NodeJs 共建
       - name: 个人评价
         description:
           - 做过30余个项目，年均代码量10w+，有规模化落地实践

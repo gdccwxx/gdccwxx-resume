@@ -23,10 +23,10 @@ experience:
     content:
       position: 会议前端核心模块负责人
       tasks:
-        - 使用 NextJs 重构会议账号体系,高峰期超过 `1000w PV`
-        - 使用 NextJs 开发并维护会议详情页,高峰期超过 `1亿 PV`
+        - 使用 NextJs 重构会议账号体系,高峰期过 `千万PV`
+        - 使用 NextJs 开发会议详情页,高峰期过 `亿PV`
         - 使用 Service Worker 提速,会议内首屏 `100ms+`
-        - 关系链前端负责人 & 核心链路负责人 & 需求评审负责人
+        - 关系链前端负责人 & 需求评审负责人
   - title:
       place: 腾讯会议
       time: 2020.11 - 2021.4

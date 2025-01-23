@@ -26,15 +26,24 @@ experience:
         - 使用 NextJs 重构会议账号体系,高峰期过 `千万PV`
         - 使用 NextJs 开发会议详情页,高峰期过 `亿PV`
         - 使用 Service Worker 提速,会议内首屏 `100ms+`
-        - 关系链前端负责人 & 需求评审负责人
+        - 编译耗时优化,从 40mins+ 优化至 `10mins` 内
+  - title:
+      place: 腾讯会议
+      time: 2023.12 - 至今
+    content:
+      position: 告警模块负责人
+      tasks:
+        - 精确告警，业务告警准确率`超过95%`
+        - 精细化告警纬度，接口，页面，资源等多维度告警
+        - 轻量化告警配置，单项目5分钟接入
   - title:
       place: 腾讯会议
       time: 2020.11 - 2021.4
     content:
       position: 前端工程师
       tasks:
-        - 使用 Docker + Nest.js + React + MySQL 搭建并开发会议运营平台
-        - 使用 Egg.js + socket + React + MongoDB 搭建并开发腾讯会议开发平台
+        - 使用 Docker + Nest.js + React + MySQL 搭建会议运营平台
+        - 使用 Egg.js + socket + React + MongoDB 搭建腾讯会议开发平台
         - 加入`腾讯 OTeam` 开发 RainBow Admin SDK
   - title:
       place: 腾讯会议
@@ -86,9 +95,11 @@ skills:
     skill:
       - name: '`计算机基础`'
         description:
+          - 计算机专业，善于利用计算机思维解决问题
           - 对计算机与编程有极大热情，自学能力较强
       - name: 个人评价
         description:
-          - 做过30余个项目，年均代码量10w+，有规模化落地实践
+          - 做过30余个项目，有规模化落地实践
           - 信奉快速迭代、快速失败原则和信奉 DRY 原则
-          - '`靠谱`、`负责`，有较强的项目 `Owner 意识`'
+          - '`靠谱`、`负责`、`Owner 意识`'
+          - 玄学上旺项目，做过的项目几乎都很好

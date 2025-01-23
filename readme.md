@@ -3,7 +3,7 @@
 - 简历基于 Gulp+Scss+Jade。
 - 访问地址：[Lxxyx 的简历](https://resume.lxxyx.cn)
 
-**要求：Node 8.9.0 及以上**
+**要求：Node 8 ~ 14** 
 
 ## 安装
 
